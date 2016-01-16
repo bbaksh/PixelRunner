@@ -14,6 +14,7 @@ Objectives Remaining:
 - Runner balancing (speed, jump, etc. (as a function of level))
 - Obstacle balance (occurance, spacing, etc. (as a function of level and resolution))
 - Create a Pause state
+_
 ____________________________________________________________________
 ____________________________________________________________________
 
@@ -23,6 +24,7 @@ Objectives Completed:
 - Created the Play state
 - Created the Runner sprite
 - Created the Obstacle sprite
+_
 ____________________________________________________________________
 ____________________________________________________________________
 
@@ -30,5 +32,6 @@ Potential Objectives:
 - Pixel Power ups
 - Flying Obstacles
 - Suggestions?
+_
 ____________________________________________________________________
 ____________________________________________________________________
