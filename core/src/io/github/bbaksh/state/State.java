@@ -1,4 +1,4 @@
-package io.github.bbaksh.States;
+package io.github.bbaksh.state;
 
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
@@ -19,6 +19,7 @@ public abstract class State {
     }
 
     public abstract void handleInput();
-    public abstract void update();
+    public abstract void update(float dt);
     public abstract void render(SpriteBatch sb);
+    public abstract void dispose();
 }
